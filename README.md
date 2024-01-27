@@ -1,2 +1,2 @@
 # odin-RockPaperScissors
-Console based game made using JavaScript.
+Console and web based game made using JavaScript.
